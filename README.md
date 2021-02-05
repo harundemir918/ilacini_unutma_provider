@@ -1,6 +1,10 @@
 # ilacini_unutma_provider
 
-A new Flutter application.
+İlacını Unutma is an app made with Flutter which doctors can write prescriptions to their patients, set reminders of medicines and make patients notified about their prescriptions with push notifications.
+
+--------------------
+
+İlacını Unutma, Flutter ile yapılan, hekimlerin hastalarına reçete yazabilecekleri, ilaç hatırlatıcıları ayarlayabilecekleri ve hastalarını push notifications aracılığıyla bildirebilecekleri bir uygulamadır.
 
 ## Getting Started
 
